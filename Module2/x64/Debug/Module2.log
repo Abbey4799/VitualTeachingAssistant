@@ -1,0 +1,113 @@
+﻿  '\\Mac\Home\Desktop\Module2'
+  用作为当前目录的以上路径启动了 CMD.EXE。
+  UNC 路径不受支持。默认值设为 Windows 目录。
+  拒绝访问。
+  Generate moc_predefs.h
+  Uic'ing mainwindow.ui...
+  Uic'ing service_1.ui...
+  Uic'ing service_1_c.ui...
+  Uic'ing service_1_e.ui...
+  Uic'ing service_2.ui...
+  Uic'ing service_3.ui...
+  Uic'ing service_3_f.ui...
+  Uic'ing service_3_m.ui...
+  Uic'ing service_4.ui...
+  Moc'ing mainwindow.h...
+   Warning: Failed to resolve include "./Debug/moc_predefs.h" for moc file \\Mac\Home\Desktop\Module2\mainwindow.h
+  Moc'ing service_1.h...
+   Warning: Failed to resolve include "./Debug/moc_predefs.h" for moc file \\Mac\Home\Desktop\Module2\service_1.h
+  Moc'ing service_1_c.h...
+  Moc'ing service_1_e.h...
+   Warning: Failed to resolve include "./Debug/moc_predefs.h" for moc file \\Mac\Home\Desktop\Module2\service_1_c.h
+   Warning: Failed to resolve include "./Debug/moc_predefs.h" for moc file \\Mac\Home\Desktop\Module2\service_1_e.h
+  Moc'ing service_2.h...
+  Moc'ing service_3.h...
+   Warning: Failed to resolve include "./Debug/moc_predefs.h" for moc file \\Mac\Home\Desktop\Module2\service_3.h
+   Warning: Failed to resolve include "./Debug/moc_predefs.h" for moc file \\Mac\Home\Desktop\Module2\service_2.h
+  Moc'ing service_3_f.h...
+  Moc'ing service_3_m.h...
+   Warning: Failed to resolve include "./Debug/moc_predefs.h" for moc file \\Mac\Home\Desktop\Module2\service_3_f.h
+   Warning: Failed to resolve include "./Debug/moc_predefs.h" for moc file \\Mac\Home\Desktop\Module2\service_3_m.h
+  Moc'ing service_4.h...
+   Warning: Failed to resolve include "./Debug/moc_predefs.h" for moc file \\Mac\Home\Desktop\Module2\service_4.h
+  iat_record_sample.cpp
+  main.cpp
+  \\Mac\Home\Desktop\Module2\iat_record_sample.cpp: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  \\Mac\Home\Desktop\Module2\msp_errors.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 iat_record_sample.cpp)
+\\Mac\Home\Desktop\Module2\msp_errors.h(441,126): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 iat_record_sample.cpp)
+\\Mac\Home\Desktop\Module2\msp_errors.h(441,126): warning C4819: \\Mac\Home\Desktop\Module2\speech_recognizer.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 iat_record_sample.cpp)
+\\Mac\Home\Desktop\Module2\iat_record_sample.cpp(211,32): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+\\Mac\Home\Desktop\Module2\iat_record_sample.cpp(212,34): warning C4267:  “初始化”: 从“size_t”转换到“int”，可能丢失数据
+\\Mac\Home\Desktop\Module2\iat_record_sample.cpp(294,22): warning C4312:  “类型强制转换”: 从“int”转换到更大的“char *”
+\\Mac\Home\Desktop\Module2\iat_record_sample.cpp(298,57): warning C4100:  “para”: 未引用的形参
+\\Mac\Home\Desktop\Module2\iat_record_sample.cpp(428,56): warning C4267:  “=”: 从“size_t”转换到“long”，可能丢失数据
+\\Mac\Home\Desktop\Module2\iat_record_sample.cpp(448,22): warning C4018:  “<”: 有符号/无符号不匹配
+\\Mac\Home\Desktop\Module2\iat_record_sample.cpp(478,53): warning C4267:  “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  mainwindow.cpp
+  service_1.cpp
+  service_1_c.cpp
+\\Mac\Home\Desktop\Module2\iat_record_sample.cpp(510,49): warning C4267:  “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+\\Mac\Home\Desktop\Module2\iat_record_sample.cpp(510,49): warning C4267: \\Mac\Home\Desktop\Module2\mainwindow.cpp: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\Mac\Home\Desktop\Module2\iat_record_sample.cpp(510,49): warning C4267: \\Mac\Home\Desktop\Module2\service_1_c.cpp: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\Mac\Home\Desktop\Module2\iat_record_sample.cpp(510,49): warning C4267: \\Mac\Home\Desktop\Module2\msp_errors.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 service_1.cpp)
+  service_1_e.cpp
+\\Mac\Home\Desktop\Module2\msp_errors.h(441,126): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 service_1.cpp)
+\\Mac\Home\Desktop\Module2\msp_errors.h(441,126): warning C4819: \\Mac\Home\Desktop\Module2\service_1_e.cpp: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\Mac\Home\Desktop\Module2\msp_errors.h(441,126): warning C4819: \\Mac\Home\Desktop\Module2\msp_errors.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 service_1_c.cpp)
+\\Mac\Home\Desktop\Module2\msp_errors.h(441,126): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 service_1_c.cpp)
+\\Mac\Home\Desktop\Module2\service_1_c.cpp(49,9): warning C4189:  “aud_src”: 局部变量已初始化但不引用
+\\Mac\Home\Desktop\Module2\service_1_c.cpp(50,12): warning C4189:  “accuracy_rate”: 局部变量已初始化但不引用
+  service_2.cpp
+\\Mac\Home\Desktop\Module2\service_1_c.cpp(48,11): warning C4189:  “material”: 局部变量已初始化但不引用
+\\Mac\Home\Desktop\Module2\service_1_c.cpp(48,11): warning C4189: \\Mac\Home\Desktop\Module2\msp_errors.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 service_1_e.cpp)
+\\Mac\Home\Desktop\Module2\msp_errors.h(441,126): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 service_1_e.cpp)
+\\Mac\Home\Desktop\Module2\service_1_e.cpp(49,9): warning C4189:  “aud_src”: 局部变量已初始化但不引用
+\\Mac\Home\Desktop\Module2\service_1_e.cpp(50,12): warning C4189:  “accuracy_rate”: 局部变量已初始化但不引用
+  service_3.cpp
+\\Mac\Home\Desktop\Module2\service_1_e.cpp(48,11): warning C4189:  “material”: 局部变量已初始化但不引用
+\\Mac\Home\Desktop\Module2\service_1_e.cpp(48,11): warning C4189: \\Mac\Home\Desktop\Module2\msp_errors.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 service_2.cpp)
+  service_3_f.cpp
+  service_3_m.cpp
+  service_4.cpp
+  speech_recognizer.cpp
+  winrec.cpp
+\\Mac\Home\Desktop\Module2\msp_errors.h(441,126): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 service_2.cpp)
+\\Mac\Home\Desktop\Module2\msp_errors.h(441,126): warning C4819: \\Mac\Home\Desktop\Module2\speech_recognizer.cpp: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\Mac\Home\Desktop\Module2\msp_errors.h(441,126): warning C4819: \\Mac\Home\Desktop\Module2\msp_errors.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 speech_recognizer.cpp)
+  moc_mainwindow.cpp
+  moc_service_1.cpp
+  moc_service_1_c.cpp
+  moc_service_1_e.cpp
+  moc_service_2.cpp
+  moc_service_3.cpp
+  moc_service_3_f.cpp
+  moc_service_3_m.cpp
+  moc_service_4.cpp
+\\Mac\Home\Desktop\Module2\msp_errors.h(441,126): warning C4819:  该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 speech_recognizer.cpp)
+\\Mac\Home\Desktop\Module2\msp_errors.h(441,126): warning C4819: \\Mac\Home\Desktop\Module2\speech_recognizer.h: warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 speech_recognizer.cpp)
+iat_record_sample.obj : error LNK2019: 无法解析的外部符号 QISRSessionBegin，该符号在函数 "void __cdecl demo_file(char const *,char const *)" (?demo_file@@YAXPEBD0@Z) 中被引用
+speech_recognizer.obj : error LNK2001: 无法解析的外部符号 QISRSessionBegin
+iat_record_sample.obj : error LNK2019: 无法解析的外部符号 QISRAudioWrite，该符号在函数 "void __cdecl demo_file(char const *,char const *)" (?demo_file@@YAXPEBD0@Z) 中被引用
+speech_recognizer.obj : error LNK2001: 无法解析的外部符号 QISRAudioWrite
+iat_record_sample.obj : error LNK2019: 无法解析的外部符号 QISRGetResult，该符号在函数 "void __cdecl demo_file(char const *,char const *)" (?demo_file@@YAXPEBD0@Z) 中被引用
+speech_recognizer.obj : error LNK2001: 无法解析的外部符号 QISRGetResult
+iat_record_sample.obj : error LNK2019: 无法解析的外部符号 QISRSessionEnd，该符号在函数 "void __cdecl demo_file(char const *,char const *)" (?demo_file@@YAXPEBD0@Z) 中被引用
+speech_recognizer.obj : error LNK2001: 无法解析的外部符号 QISRSessionEnd
+iat_record_sample.obj : error LNK2019: 无法解析的外部符号 QTTSSessionBegin，该符号在函数 "int __cdecl text_to_speech(char const *,char const *,char const *)" (?text_to_speech@@YAHPEBD00@Z) 中被引用
+iat_record_sample.obj : error LNK2019: 无法解析的外部符号 QTTSTextPut，该符号在函数 "int __cdecl text_to_speech(char const *,char const *,char const *)" (?text_to_speech@@YAHPEBD00@Z) 中被引用
+iat_record_sample.obj : error LNK2019: 无法解析的外部符号 QTTSAudioGet，该符号在函数 "int __cdecl text_to_speech(char const *,char const *,char const *)" (?text_to_speech@@YAHPEBD00@Z) 中被引用
+iat_record_sample.obj : error LNK2019: 无法解析的外部符号 QTTSSessionEnd，该符号在函数 "int __cdecl text_to_speech(char const *,char const *,char const *)" (?text_to_speech@@YAHPEBD00@Z) 中被引用
+service_1_c.obj : error LNK2019: 无法解析的外部符号 MSPLogin，该符号在函数 "private: void __cdecl service_1_C::on_input_OK_clicked(void)" (?on_input_OK_clicked@service_1_C@@AEAAXXZ) 中被引用
+service_1_e.obj : error LNK2001: 无法解析的外部符号 MSPLogin
+service_1_c.obj : error LNK2019: 无法解析的外部符号 MSPLogout，该符号在函数 "private: void __cdecl service_1_C::on_input_OK_clicked(void)" (?on_input_OK_clicked@service_1_C@@AEAAXXZ) 中被引用
+service_1_e.obj : error LNK2001: 无法解析的外部符号 MSPLogout
+winrec.obj : error LNK2019: 无法解析的外部符号 __imp_waveInGetNumDevs，该符号在函数 get_input_dev_num 中被引用
+winrec.obj : error LNK2019: 无法解析的外部符号 __imp_waveInOpen，该符号在函数 "int __cdecl open_rec_device(int,struct tWAVEFORMATEX *,void *,struct HWAVEIN__ * *)" (?open_rec_device@@YAHHPEAUtWAVEFORMATEX@@PEAXPEAPEAUHWAVEIN__@@@Z) 中被引用
+winrec.obj : error LNK2019: 无法解析的外部符号 __imp_waveInClose，该符号在函数 "void __cdecl close_rec_device(struct HWAVEIN__ *)" (?close_rec_device@@YAXPEAUHWAVEIN__@@@Z) 中被引用
+winrec.obj : error LNK2019: 无法解析的外部符号 __imp_waveInPrepareHeader，该符号在函数 "int __cdecl prepare_rec_buffer(struct HWAVEIN__ *,struct wavehdr_tag * *,unsigned int,unsigned int)" (?prepare_rec_buffer@@YAHPEAUHWAVEIN__@@PEAPEAUwavehdr_tag@@II@Z) 中被引用
+winrec.obj : error LNK2019: 无法解析的外部符号 __imp_waveInUnprepareHeader，该符号在函数 "void __cdecl free_rec_buffer(struct HWAVEIN__ *,struct wavehdr_tag *,unsigned int)" (?free_rec_buffer@@YAXPEAUHWAVEIN__@@PEAUwavehdr_tag@@I@Z) 中被引用
+winrec.obj : error LNK2019: 无法解析的外部符号 __imp_waveInAddBuffer，该符号在函数 "void __cdecl data_proc(struct recorder *,struct tagMSG *)" (?data_proc@@YAXPEAUrecorder@@PEAUtagMSG@@@Z) 中被引用
+winrec.obj : error LNK2019: 无法解析的外部符号 __imp_waveInStart，该符号在函数 "int __cdecl start_record_internal(struct HWAVEIN__ *,struct wavehdr_tag *,unsigned int)" (?start_record_internal@@YAHPEAUHWAVEIN__@@PEAUwavehdr_tag@@I@Z) 中被引用
+winrec.obj : error LNK2019: 无法解析的外部符号 __imp_waveInReset，该符号在函数 "int __cdecl start_record_internal(struct HWAVEIN__ *,struct wavehdr_tag *,unsigned int)" (?start_record_internal@@YAHPEAUHWAVEIN__@@PEAUwavehdr_tag@@I@Z) 中被引用
+winmm.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+debug\\Module2.exe : fatal error LNK1120: 18 个无法解析的外部命令

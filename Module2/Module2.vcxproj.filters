@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="iat_record_sample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="service_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="service_1_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="service_1_e.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="service_2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="service_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="service_3_f.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="service_3_m.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="speech_recognizer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="winrec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="service_4_c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="service_4_e.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="service_4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="iat_record_sample.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="mainwindow.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="msp_cmn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="msp_errors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="msp_types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qisr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qtts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="service_1.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="service_1_c.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="service_1_e.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="service_2.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="service_3.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="service_3_f.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="service_3_m.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="speech_recognizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="winrec.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_service_4_c.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_service_4_e.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="ui_mainwindow.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_service_1.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_service_1_c.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_service_1_e.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_service_2.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_service_3.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_service_3_f.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_service_3_m.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ui_service_4.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="mainwindow.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="service_1.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="service_1_c.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="service_1_e.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="service_2.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="service_3.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="service_3_f.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="service_3_m.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="service_4.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="service_4_c.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="service_4_e.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="service_4_c.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="service_4_e.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="service_4.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+</Project>
