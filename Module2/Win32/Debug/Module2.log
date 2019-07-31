@@ -1,10 +1,2 @@
 ﻿  Generate moc_predefs.h
-  service_4_c.cpp
-  service_4_e.cpp
-C:\Users\li_ya\Desktop\Deloitte\PJ\张江村双语助学产品\Module\Module2\service_4_e.cpp(77,6): warning C4189:  “aud_src”: 局部变量已初始化但不引用
-C:\Users\li_ya\Desktop\Deloitte\PJ\张江村双语助学产品\Module\Module2\service_4_c.cpp(76,6): warning C4189:  “aud_src”: 局部变量已初始化但不引用
-C:\Users\li_ya\Desktop\Deloitte\PJ\张江村双语助学产品\Module\Module2\service_4_e.cpp(170,10): warning C4189:  “err”: 局部变量已初始化但不引用
-C:\Users\li_ya\Desktop\Deloitte\PJ\张江村双语助学产品\Module\Module2\service_4_e.cpp(251,54): warning C4100:  “is_last”: 未引用的形参
-C:\Users\li_ya\Desktop\Deloitte\PJ\张江村双语助学产品\Module\Module2\service_4_c.cpp(177,10): warning C4189:  “err”: 局部变量已初始化但不引用
-C:\Users\li_ya\Desktop\Deloitte\PJ\张江村双语助学产品\Module\Module2\service_4_c.cpp(258,54): warning C4100:  “is_last”: 未引用的形参
   Module2.vcxproj -> C:\Users\li_ya\Desktop\Deloitte\PJ\张江村双语助学产品\Module\Module2\debug\Module2.exe
